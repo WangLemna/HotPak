@@ -1,0 +1,2 @@
+HotPak.exe filter=lfs diff=lfs merge=lfs -text
+HotPak.pdb filter=lfs diff=lfs merge=lfs -text
